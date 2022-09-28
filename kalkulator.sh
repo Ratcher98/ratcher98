@@ -1,7 +1,7 @@
 cowsay -f meow.cow "Ratcher" | lolcat
 #Input angka yang ingin digunakan
-read -p "Masukan angka A: " A
-read -p "Masukan angka B: " B
+read -p "piro     ? : " A
+read -p "karo piro? : " B
 #Input operasi yang di inginkan
 echo "Pilihan operasi"
 echo "1. Penjumlahan"
